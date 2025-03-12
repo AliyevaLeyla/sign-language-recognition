@@ -1,0 +1,1 @@
+Recognizing Hand Signs (A, B, L) from American Sign Language (ASL) Alphabet using Python, Mediapipe, OpenCV, and Scikit-learn. This project aims to recognize the hand signs for the letters "A", "B", and "L" from American Sign Language (ASL) using real-time camera capture, computer vision techniques, and sound output for each recognized letter.
